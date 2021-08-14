@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @serenadaley
-- 👀 I’m interested in Front-end Web Developement
-- 🌱 I’m currently learning HTML, CSS, and Javascript
+- 👀 I’m interested in Front-end Web Developement and Blockchain Technology.
+- 🌱 I’m currently learning HTML, CSS, and Javascript, and Solidity.
 - 💞️ I’m looking to collaborate on small projects to get used to the basics.
 - 📫 How to reach me ...
+- email serena.daley14@gmail.com with "Github" in the subject line.
 
 <!---
 serenadaley/serenadaley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
