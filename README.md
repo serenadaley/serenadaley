@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @serenadaley
-- 👀 I’m interested in Front-end Web Developement and Blockchain Technology.
-- 🌱 I’m currently learning more about HTML, CSS, Javascript, and Solidity.
-- 💞️ I’m looking to collaborate on small projects to get used to the basics.
+- 👀 I’m interested in Web Developement.
+- 🌱 I’m currently learning more about HTML, CSS, Javascript, and Java.
+- 💞️ I’m looking to collaborate on small projects to become more comfortable with the basics.
 - 📫 How to reach me ...
 - email serena.daley14@gmail.com with "Github" in the subject line.
 
